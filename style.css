@@ -60,4 +60,12 @@ ul{
 li{
   padding: 10px;
   border-bottom: 1px solid #ddd;
+  display: flex;
+  justify-content: space-between;
+}
+
+.delete{
+  color: red;
+  font-size: 20px;
+  cursor: pointer;
 }
